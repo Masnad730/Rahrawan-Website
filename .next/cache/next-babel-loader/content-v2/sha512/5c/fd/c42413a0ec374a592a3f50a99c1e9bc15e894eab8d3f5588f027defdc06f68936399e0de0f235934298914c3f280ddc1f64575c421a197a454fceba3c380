@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const options = {\n  position: 'top-right',\n  style: {\n    backgroundColor: '#f4f2f2',\n    color: '#000',\n    fontSize: '14px',\n    textAlign: 'center',\n    borderLeft: '3px solid #009232'\n  },\n  closeStyle: {\n    color: '#000',\n    fontSize: '16px'\n  }\n};","map":null,"metadata":{},"sourceType":"module"}
